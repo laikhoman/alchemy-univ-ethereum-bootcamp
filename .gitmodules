@@ -1,0 +1,3 @@
+[submodule "week2"]
+	path = week2
+	url = https://github.com/laikhoman/alchemy-univ-ethereum-bootcamp/week2
